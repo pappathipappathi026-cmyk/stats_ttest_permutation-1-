@@ -79,7 +79,7 @@ The results demonstrate how permutation testing can be used to compare two group
 
 GitHub Repository:
 
-https://github.com/pappathipappathi026-cmyk/stats_ttest_permutation-1-
+https://github.com/pappathipappathi026-cmyk/stats_ttest_permutation-1-/blob/main/24_stats_ttest_permutation%20(1).ipynb
 
 ## 10. Conclusion
 
